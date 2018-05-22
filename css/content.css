@@ -1,0 +1,308 @@
+/* CSS Document */
+
+#content
+{
+	text-align: center;
+	display: block;
+	float: left;
+	background: #FFF;
+	width: 59.55%;
+	padding-top: 0.1%;
+	margin: 0 0.2% 0 0.2%;
+}
+#content #chinhsua
+{
+	margin-top: 2%;
+	text-align: center;
+}
+#content #chinhsua h2
+{
+	font-size: 15px;
+	
+}
+#content #chinhsua #nhap
+{
+	text-align: center;
+	font-size: 14px;
+	margin-top: 1%;
+}
+#content #tabletk #table1 a
+{
+	text-decoration: none;
+	color: black;
+}
+#content #chinhsua #capnhat
+{
+	font-size: 14px;
+	color: white;
+	background-color:#005b7f;
+	margin-top: 2%;
+	padding: 1% 1% 1% 1%;
+}
+#content h1
+{
+	color: #F00;
+	font-size: 120%;
+	margin: 1% 1% 0 1%;
+	text-align: center;
+	height: auto;
+}
+#content #tabletk 
+{
+	text-align: center;
+	font-size: 13px;
+	width: 100%;
+}
+#content #tabletk table
+{
+	margin-top: 2%;
+	text-align: center;
+	width: 100%;
+	font-size: 14px;
+	margin-left: 0%;
+}
+#content #tabletk #table1
+{
+	width: 100%;
+}
+#content #tabletk th 
+{
+	color: white;
+	background-color:#005b7f; 
+}
+#content #tabletk lable
+{
+	font-size: 14px;
+	font-weight: bold;
+}
+#content #tabletk h2 
+{
+		margin-top: 2%;
+	font-size: 14px;
+}
+#content #tabletk #tk
+{
+	color: white;
+	background-color:#005b7f;
+	padding: 0.5% 0.5% 0.5% 0.5%;
+}
+#content #back
+{
+	text-align:center;
+	display:inline;
+	color:#FFF;
+	background-color:#005b7f;
+	margin: 0 0% 0 0;
+	padding: 1% 1% 1% 1%;
+	font-size: 12px;
+}
+#content #back a
+{
+	text-decoration: none;
+	color: white;
+}
+#button
+{
+	margin: 0 0 1% 0;
+		
+}
+#button ul li
+{
+	font-size:14px;
+	text-align:center;
+	display:inline;
+	color:#FFF;
+	background-color:#005b7f;
+	margin: 0 0 0 23%;
+	padding: 1% 4% 1% 4%;
+}
+#button ul li a
+{
+	text-decoration: none;
+	color:#FFF;
+}
+#infor
+{
+	margin: 3% 0 0 0;
+	text-align: left;
+}
+#infor ul li
+{
+	display: inline;
+	list-style: none;
+	font-weight: bold;
+	margin: 0 0 0 0;
+	padding: 0 0 0 3%;
+}
+#infor ul #select1
+{
+	font-size: 14px;
+}
+#infor2
+{
+	margin: 2% 0 0 3%;
+	text-align: left;
+}
+#infor2 ul li
+{
+	display:inline;
+	list-style: none;
+	font-weight: bold;
+	margin: 0 0% 0 0;
+	padding: 0 14% 0 0;
+}
+#infor3
+{
+	margin: 2% 0 0 3%;
+	text-align:left;
+}
+#infor3 ul li{
+	display:inline;
+	list-style: none;
+	font-weight: bold;
+	margin: 0 2% 0 0;
+	padding: 0 4.8% 0 0;
+}
+#infor3 h1 a
+{
+	font-size: 15px;
+	text-align: center;
+	text-decoration: none;
+	color:white;
+	background-color:#005b7f;
+	padding: 1% 2% 1% 2%;
+	font-weight: normal;
+}
+#button2 {
+	margin: 0 0 0 0;
+	text-align:center;
+}
+#button2 #export
+{
+	margin: 2% 0 0 0.2%;
+	font-size: 12px;
+}
+#button2 #import
+{
+	margin: 2% 0 0 0 ;
+	font-size: 12px;
+}
+#button2 button{
+	text-align:center;
+	display:inline;
+	color:#FFF;
+	background-color:#005b7f;
+	margin: 0 10% 0 0;
+	padding: 1% 1% 1% 1%;
+}
+#button2 input
+{
+	text-align:center;
+	display:inline;
+	color:#FFF;
+	background-color:#005b7f;
+	margin: 0 10% 0 0;
+	padding: 1% 1% 1% 1%;
+}
+#button2 a
+{
+	color: white;
+	text-decoration: none;
+}
+#button2 ul li a{
+	text-decoration:none;
+	color:#FFF;
+}
+#diem{
+	margin: 0 0 0 0;
+	text-align: center;
+}
+#diem table
+{
+	margin-top: 2%;
+	text-align: center;
+	width: 100.2%;
+	
+}
+#diem #update
+{
+	text-align:center;
+	display:inline;
+	color:#FFF;
+	background-color:#005b7f;
+	margin: 2% 0 0 0;
+	padding: 1% 1.7% 1% 1.7%;
+	font-size: 12px;
+}
+#diem table #stt 
+{
+ background-color: #005b7f;
+	color: white;	
+}
+#diem table #mahv 
+{
+ background-color: #005b7f;
+	color: white;	
+}
+#diem table #ten 
+{
+ background-color: #005b7f;
+	color: white;	
+}
+#diem table #gt 
+{
+ background-color: #005b7f;
+	color: white;	
+}
+#diem table #ns 
+{
+ background-color: #005b7f;
+	color: white;	
+}
+#diem table #qq 
+{
+ background-color: #005b7f;
+	color: white;	
+}
+#diem table #dlt 
+{
+ background-color: #005b7f;
+	color: white;	
+}
+#diem table #dth 
+{
+ background-color: #005b7f;
+	color: white;	
+}
+#lophoc table 
+{
+	width: 100%;
+	text-align: center;
+	margin: 0 0 0 0;
+}
+#lophoc table #malh
+{
+	background-color: #005b7f;
+	color: white;
+}
+#lophoc table #khoa
+{
+	background-color: #005b7f;
+	color: white;
+}
+#lophoc table #lop
+{
+	background-color: #005b7f;
+	color: white;
+}
+#lophoc table #nd
+{
+	background-color: #005b7f;
+	color: white;
+}
+#lophoc table button
+{
+	background-color:#599ECE;
+	color: white;
+	width: 100%;
+}
